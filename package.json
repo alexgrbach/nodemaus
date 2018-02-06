@@ -1,0 +1,27 @@
+{
+  "name": "nodemaus",
+  "version": "0.1.0",
+  "description": "free, open, smart home devices built with the raspberry pi's Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgrbach/nodemaus.git"
+  },
+  "author": "Alex Grbach, Ian Grams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexgrbach/nodemaus/issues"
+  },
+  "homepage": "https://github.com/alexgrbach/nodemaus#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "express": "^4.16.2",
+    "material-components-web": "^0.30.0",
+    "pug": "^2.0.0-rc.4",
+    "sqlite3": "^3.1.13",
+    "webpack": "^3.10.0"
+  }
+}
